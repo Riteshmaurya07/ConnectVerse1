@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558918735773",
+    "project_id": "connectverse-d7e89",
+    "storage_bucket": "connectverse-d7e89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558918735773:android:2fae3f713b6043fd964174",
+        "android_client_info": {
+          "package_name": "com.company.ConnectVerse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnhaoifQr76bdOxDRX8vRljQ1gvM0_qOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
